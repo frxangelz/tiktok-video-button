@@ -2,7 +2,7 @@
 	Add Simple Download button for tiktok
 	================================================
 	FreeAngel
-    my youtube channel : http://www.youtube.com/channel/UC15iFd0nlfG_tEBrt6Qz1NQ
+    my youtube channel : https://www.youtube.com/channel/UCqRqvw9n7Lrh79x3dRDOkDg
 */
 function CreateBtn(a,src){
 
