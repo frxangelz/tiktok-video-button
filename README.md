@@ -1,6 +1,8 @@
 # Tiktok Video Button
 updated : November 3rd, 2021
 
+version : 1.1
+
 Simple script to add video url/download button for tiktok
 
 if you spend a lot of time on tiktok, and you get lots of interesting videos, You can download these videos easily on your PC. there are many downloader software that you can use, but we will make it with a simple script.
